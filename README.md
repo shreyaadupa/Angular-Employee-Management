@@ -32,7 +32,7 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
   Verify Angular Installation/Version - Run command 
                _**ng version**_
   
-------**Step 3 - Create Angular Project**-------- 
+------**Create Angular Application**-------- 
   
   ```Create a folder in your machine to organize all your angular apps - I created one with "angular-apps"
   
@@ -41,6 +41,12 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
   Run below command:  
       ng new projectnameofyourchoicehere
          eg: ng new angular-employee-management
+         
+------**Run Angular Application**--------    
+     
+     from Mac Terminal, enter one of the below commands.
+     
+     npm start (or) ng serve
    
  ----**Which Editor and How to Install the Editor - To develop angular project**-----------
  
