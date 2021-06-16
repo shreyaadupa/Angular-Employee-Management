@@ -40,7 +40,7 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
   ``` 
   Run below command:  
       ng new projectnameofyourchoicehere
-         eg: _**ng new angular-employee-management** _
+         eg: ng new angular-employee-management
    
  ----**Which Editor and How to Install the Editor - To develop angular project**-----------
  
