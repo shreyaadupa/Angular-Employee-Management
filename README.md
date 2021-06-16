@@ -1,8 +1,8 @@
 -----**Context**------
-
+```
 We are going to develop a Employee Management application using Angular JS.
 
-**What is Employee Management application?** - Every organization has a employee management application/portal to manage employee information(eg; adding new hire details, updating existing employee information, deleting the employee information when they leave the org)
+What is Employee Management application? - Every organization has a employee management application/portal to manage employee information(eg; adding new hire details, updating existing employee information, deleting the employee information when they leave the org)
 
 I have Installed NodeJS and Angular CLI in my Mac, and created a skeleton(draft) project for Employee Management(Angular Based).
 
@@ -11,7 +11,7 @@ Included instructions for you to setup angular in your machine(do this before an
 Included employee management project requirements at the end of this file.
 
 Let's keep improvising the project requirements, and I'll keep adding more instructions to install needed tools as i learn.
-
+```
 
 ------**Setup - Do these before you start anything**---------
 
@@ -34,10 +34,10 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
   
 ------**Step 3 - Create Angular Project**-------- 
   
-  Create a folder in your machine to organize all your angular apps - I created one with **angular-apps**
+  ```Create a folder in your machine to organize all your angular apps - I created one with "angular-apps"
   
   Switch(cd) into the angular apps specific directory via Mac Terminal 
-   
+  ``` 
   Run below command:  
       ng new projectnameofyourchoicehere
          eg: _**ng new angular-employee-management** _
@@ -61,7 +61,7 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
     
  -------**References:**-------
    
-   Followed this to create Initial Skeleton angular project - https://www.youtube.com/watch?v=i7KaVFOXNUQ&ab_channel=TylerPottsTylerPotts
+  ``` Followed this to create Initial Skeleton angular project - https://www.youtube.com/watch?v=i7KaVFOXNUQ&ab_channel=TylerPottsTylerPotts ```
    
  -------**Questions?**--------
    
