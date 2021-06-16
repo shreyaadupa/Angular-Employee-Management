@@ -84,6 +84,22 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
    5. **Approve/Deny Leave Request** - Manager to approve or deny the leave request
       User Stories: TBD
    
+-------**Tasks for Shreya - Week 1(jun14th)**-------------
+1. Install Git, NodeJs, Angular CLI in Mac
+   Status - ?
+2. For Practice - Create angular-apps folder locally and create test-angular-project under it(using step-3)
+   Status - ?
+3. For Practice - Create another test-angular-project (repository) in git, and push the angular project that is created to the test-angular-project repository.
+   Status - ?
+4. In test-angular-project - create a Feature branch(name the branch my-feature-branch) and checkout the created feature branch.
+    Status - ?
+5. Do some changes to one of the files and push the changed files to git repository.
+    Status - ?
+
+-------**Task for Manasa - Week 1(Jun 14th)**---------
+1. Identify and Test the Editor Tool to develop Angular Js App and Import this app to that editor.
+2. TBD
+3. TBD
 
 -------**Any Thoughts/Ideas?**--------
    
