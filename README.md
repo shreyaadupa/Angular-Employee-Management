@@ -48,6 +48,8 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
      
      npm start (or) ng serve
    
+   Navigate to http://localhost:4200/
+   
  ----**Which Editor and How to Install the Editor - To develop angular project**-----------
  
  To Do
