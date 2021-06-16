@@ -42,10 +42,23 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
       ng new projectnameofyourchoicehere
          eg: _**ng new angular-employee-management** _
    
+ ----**Which Editor and How to Install the Editor - To develop angular project**-----------
+ 
+ To Do
    
  ------**Git Installation Instructions and Commands**------
-     To Do
-   
+    I have git installed in my Mac, aftery you have created this repository, you might have notice some commands that showed up.
+    I used the same set of git commands from my Mac terminal to push the project files to your git repository.
+    
+    How to install git in Mac - Follow the installation instruction from here https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+  
+    Commands:
+    
+    git status - shows the status of new files/ updated files/status of your local repository
+    git add * - Adds all the files - this command alone does not push file to remote repository.
+    git commit -m "add a note on what additions/changes you have done"
+    git push  - To push the files that you added/commited.
+    
  -------**References:**-------
    
    Followed this to create Initial Skeleton angular project - https://www.youtube.com/watch?v=i7KaVFOXNUQ&ab_channel=TylerPottsTylerPotts
