@@ -94,7 +94,7 @@ Let's keep improvising the project requirements, and I'll keep adding more instr
    
 -------**Tasks for Shreya - Week 1(jun14th)**-------------
 1. Install Git, NodeJs, Angular CLI in Mac
-   Status - ?
+   Status - installed nodeJs and Git but Angular CLI installation not working
 2. For Practice - Create angular-apps folder locally and create test-angular-project under it(using step-3)
    Status - ?
 3. For Practice - Create another test-angular-project (repository) in git, and push the angular project that is created to the test-angular-project repository.
